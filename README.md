@@ -5,9 +5,8 @@
 
 - 🔭 I’m currently working on [Stellar Sights](https://github.com/sygmo/stellar-sights)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [schmidtatx.com](schmidtatx.com)
 
 - 📫 How to reach me **stevenschmidtatx@gmail.com**
 
