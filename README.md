@@ -1,11 +1,10 @@
-<h1 align="center">Howdy 🤠 I'm Steven</h1>
-<h3 align="center">A Texan passionate about Software Development</h3>
+<h1 align="center">Howdy 🤠 I'm Steven, welcome to my github</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stevenschmidtaustex&label=Profile%20views&color=0e75b6&style=flat" alt="stevenschmidtaustex" /> </p>
 
-- 🔭 I’m currently working on [Stellar Sights](https://github.com/sygmo/stellar-sights)
+- 🔭 I’m currently working on various nerdy projects.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C++**
 
 
 - 📫 How to reach me **stevenschmidtatx@gmail.com**
